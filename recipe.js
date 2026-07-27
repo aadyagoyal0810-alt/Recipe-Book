@@ -20,10 +20,6 @@ btn.addEventListener("click",(evt)=>{
        r=i
         }
     }
-    const recipeBox = document.querySelector("#recipe");
-    recipeBox.classList.remove("page-turn");
-    void recipeBox.offsetWidth;
-    recipeBox.classList.add("page-turn");
 })
 
 arr1.addEventListener("click",(evt)=>{  
@@ -34,10 +30,6 @@ arr1.addEventListener("click",(evt)=>{
         im.play();
         dish.innerHTML=l[r][0].toUpperCase()+"&#128523";
         }
-        const recipeBox = document.querySelector("#recipe");
-        recipeBox.classList.remove("page-turn");
-        void recipeBox.offsetWidth;
-        recipeBox.classList.add("page-turn");
     })
 
 arr2.addEventListener("click",(evt)=>{
@@ -48,8 +40,4 @@ arr2.addEventListener("click",(evt)=>{
         im.play();
         dish.innerHTML=(l[r][0].toUpperCase()+"&#128523"); 
         }
-        const recipeBox = document.querySelector("#recipe");
-        recipeBox.classList.remove("page-turn");
-        void recipeBox.offsetWidth;
-        recipeBox.classList.add("page-turn");
     })
