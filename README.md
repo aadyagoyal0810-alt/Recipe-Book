@@ -1,6 +1,6 @@
 # Recipe Book
 
-A simple, interactive web app where you can pick your favorite dish and instantly view its recipe — complete with a video guide!
+A simple, interactive web app where you can pick your favorite dish and instantly view its recipe,i complete with a video guide!
 
  Live Demo: [https://aadyagoyal0810-alt.github.io/Recipe-Book/](https://aadyagoyal0810-alt.github.io/Recipe-Book/)
 ---
